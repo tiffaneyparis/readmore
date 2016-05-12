@@ -3,7 +3,16 @@ YOUR STYLES
 *******************/
 
 
+body {
+    background: cornsilk;
+    
+}
 
+article {
+    max-height: 100%;
+    overflow: hidden;
+    
+}
 
 /********************
 MEDIA QUERIES
